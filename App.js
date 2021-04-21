@@ -7,7 +7,7 @@ class App extends Component {
 		return (
 			<View style={styles.mainView}>
 				<Text style={styles.mainfont}>Mobile Meet</Text>
-        <Text style={styles.version}>8.0</Text>
+        <Text style={styles.version}>11.0</Text>
 			</View>
 		);
 	}
